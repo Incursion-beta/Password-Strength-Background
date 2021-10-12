@@ -4,6 +4,7 @@ A small project to create a login form and the length of the password is detecte
 
 The background is blur at the start and stronger the password, better the image quality.
 
+
 Screenshot of the image with a small password.
 
 
